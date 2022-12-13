@@ -1,4 +1,4 @@
-<img align="left"  alt="Coding" width="full" src="http://ansimuz.com/site/wp-content/uploads/2015/03/parallax-mountain-animx2.gif">
+<img align="left"  alt="Coding" width="900" src="http://ansimuz.com/site/wp-content/uploads/2015/03/parallax-mountain-animx2.gif">
 
 
 
