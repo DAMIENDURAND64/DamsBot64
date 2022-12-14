@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript / NextJS / ReactJS and more !**
 
-- 📫 How to reach me **duduso6464@gmail.com**
+- 📫 How to reach me **damien64durand@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
