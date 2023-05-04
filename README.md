@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Damien</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate Web developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damsbot64&label=Profile%20views&color=0e75b6&style=flat" alt="damsbot64" /> </p>
 
-- 🌱 I’m currently learning **TypeScript / NextJS / ReactJS and more !**
+- 🌱 I’m currently applying what I learned **TypeScript / NextJS / ReactJS and more !**
 
 - 📫 How to reach me **damien64durand@gmail.com**
 
